@@ -1,3 +1,6 @@
 [submodule "hot-refresh"]
 	path = hot-refresh
 	url = https://gitee.com/hyfsynb/hot-refresh
+[submodule "algorithm"]
+	path = algorithm
+	url = https://github.com/hyfsy/learn-algorithm
